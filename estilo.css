@@ -1,5 +1,6 @@
 .cabeca{
     border-width: 5px;
+    border-style: solid;
 }
 
 div{
@@ -8,4 +9,5 @@ div{
 
 .copo{
     text-align: left;
+    border-style: solid;
 }
