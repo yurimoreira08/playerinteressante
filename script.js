@@ -1,4 +1,3 @@
-
 window.onload = () => {
 
     const song_img_el = document.getElementById('song-image');
