@@ -50,13 +50,13 @@ let songs = [
     {
         title: 'Melhor Só',
         artist: 'Kayblack',
-        song_path: 'music/Melhor Só.mp3',
+        song_path: 'music/melhor só.mp3',
         img_path: './assets/images/kayblack.jpeg'
     },
     {
         title: 'Segredo',
         artist: 'Kayblack',
-        song_path: 'music/Segredo.mp3',
+        song_path: 'music/segredo.mp3',
         img_path: './assets/images/kayblack.jpeg'
     },
     {
