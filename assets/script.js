@@ -19,19 +19,19 @@ let songs = [
     {
         title: 'Conexões De Máfia',
         artist: 'Matuê, Rich The Kid',
-        song_path:'music/m1.mpeg',
+        song_path:'music/m1.mp3',
         img_path: './assets/images/conexões.jpg'
     },
     {
         title: 'Hoje Faz Um Mês',
         artist: 'Chaguinha Bala',
-        song_path: 'music/m2.mpeg',
+        song_path: 'music/m2.mp3',
         img_path: './assets/images/chaguinha.jpg'
     },
     {
         title: 'Borbulhas De Amor',
         artist: 'Fagner',
-        song_path: 'music/m3.mpeg',
+        song_path: 'music/m3.mp3',
         img_path: './assets/images/Borbulhas.jpg'
     },
     {
